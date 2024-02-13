@@ -10,7 +10,7 @@
 const mathLibary = require('./lib/math');
 const quotesLibary = require('./lib/quotes');
 
-//App Object - Module Scaffolding
+//App Object - Module Scaffolding.
 const app = {};
 
 //Configratution
